@@ -1,0 +1,11 @@
+.cardActions {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+}
+
+.media-image {
+  height: 200px;
+  flex: 1;
+  background-image: url("../assets/download.jpeg");
+}
